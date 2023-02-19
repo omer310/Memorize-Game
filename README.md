@@ -19,7 +19,7 @@ This is a simple "Memorize" game built with SwiftUI. The game allows you to sele
 
 ## Installation and Usage
 
-To use this project, simply download the code and open it in Xcode. From there, you can run the project and start playing the game.
+To use this project, simply download the code and open it in Xcode. From there, you can run the project and start playing the game. And make sure to add the SF Symbols to your project file.
 
 
 
